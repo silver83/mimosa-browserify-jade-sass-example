@@ -1,0 +1,10 @@
+{
+  "name": "native-promote-svc",
+  "version": "0.1.0",
+  "dependencies": {
+    "jquery": "1.10.2",
+    "foundation": "https://github.com/zurb/foundation.git#scss-standalone",
+    "bourbon": "https://github.com/thoughtbot/bourbon.git",
+    "jade": "git://github.com/silver83/jade.git"
+  }
+}
